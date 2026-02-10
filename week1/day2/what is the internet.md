@@ -95,4 +95,4 @@ A web page displaying a heading "Welcome to My Website" and a paragraph "This is
 ## Additional Resource
 
 For a visual explanation and demonstration, check out this tutorial:
-[Introduction to the Internet, the Web and HTML for Absolute Beginners](https://youtu.be/wTfCQSGxTjQ?si=AWzRkygGhyGhqMIm) (Note: Replace with actual link if available)
+[Introduction to the Internet, the Web and HTML for Absolute Beginners](https://youtu.be/wTfCQSGxTjQ?si=AWzRkygGhyGhqMIm)
